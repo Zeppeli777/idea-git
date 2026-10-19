@@ -4,16 +4,16 @@
 
 # Test scratch produced by the checks (they clean up after themselves, but a
 # crashed run can leave these behind).
-.tmp-runner/
-.ttmp-*/
-.ttmp-*
+.tmp-*
+
+# The generated demo fixture and its copies, which live beside this bundle.
+../.tmp-demo-check/
 ../.tmp-smoke/
 ../.tmp-route-stamp/
 ../.tmp-route-orphan/
 ../.tmp-route-multi/
 ../.tmp-repo-copy/
 ../.tmp-rebase-test/
-../.tmp-demo-check/
 ../.tmp-zero-ctx/
 
 # Local node installs.
