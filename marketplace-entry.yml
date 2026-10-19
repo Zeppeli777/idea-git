@@ -1,0 +1,24 @@
+# Submission for the awesome-dsh-plugin list.
+#
+# Target file in the awesome-dsh-plugin repo:
+#   data/plugins/Zeppeli777__idea-git.yml
+#
+# Requirements verified before writing this (see the contributing guide):
+#   - package.json declares `dsh.bundle` (plus `dsh.client` for the browser UI)
+#   - cordis.patch.yml sits next to it
+#   - real, substantial code (three JS files, ~340 kB)
+#   - no npm/peerDependencies at all, so the prerelease peerDep trap cannot apply
+#   - the repo carries the `dsh-plugin` topic
+#   - `description.en` is quoted because it contains ": " (a bare colon-space
+#     would be parsed as a nested YAML key)
+#   - every claim in the description is backed by code in this repository
+#
+# Still outstanding at the time of writing: the repository must be at least one
+# day old before the submission passes CI.
+
+url: https://github.com/Zeppeli777/idea-git
+name: Zeppeli777/idea-git
+category: git
+description:
+  en: 'IDEA-style Git workbench: commit graph, branches, diffs, annotate, staging and stash.'
+  zh: 'IDEA 风格 Git 工作台：提交图、分支、差异、注解、暂存与 Stash。'
