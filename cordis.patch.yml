@@ -1,0 +1,7 @@
+- insert:
+    - id: idea-git
+      name: '@local/idea-git'
+      config:
+        stampAttribution: true
+        agentCommitHint: true
+        attributionKey: 'Assisted-by'

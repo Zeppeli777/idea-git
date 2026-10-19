@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "IDEA Git",
+    "description": "An IntelliJ IDEA-style Git workbench: commit graph, branches, diffs, annotate, staging, stash and a command console."
+  }
+}

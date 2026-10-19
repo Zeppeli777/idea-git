@@ -1,0 +1,25 @@
+# Dev-only scratch: the React test renderer and its install cache.
+.tmp-test/
+.npm-cache/
+
+# Test scratch produced by the checks (they clean up after themselves, but a
+# crashed run can leave these behind).
+.tmp-runner/
+.ttmp-*/
+.ttmp-*
+../.tmp-smoke/
+../.tmp-route-stamp/
+../.tmp-route-orphan/
+../.tmp-route-multi/
+../.tmp-repo-copy/
+../.tmp-rebase-test/
+../.tmp-demo-check/
+../.tmp-zero-ctx/
+
+# Local node installs.
+node_modules/
+
+# OS noise.
+Thumbs.db
+desktop.ini
+.DS_Store

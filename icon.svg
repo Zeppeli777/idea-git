@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="IDEA Git">
+  <defs>
+    <linearGradient id="g" x1="10" y1="8" x2="54" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d2637"/>
+      <stop offset="1" stop-color="#121722"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#3a4a66" stroke-opacity="0.55"/>
+  <path d="M21 16v30" stroke="#5b8def" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M21 30c0-7 22-5.5 22-13" stroke="#56b6c2" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <path d="M21 40c0-6 18-4.5 18-11" stroke="#e5a04c" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <circle cx="21" cy="16" r="4.2" fill="#5b8def" stroke="#121722" stroke-width="1.6"/>
+  <circle cx="21" cy="46" r="4.2" fill="#5b8def" stroke="#121722" stroke-width="1.6"/>
+  <circle cx="43" cy="17" r="4.2" fill="#56b6c2" stroke="#121722" stroke-width="1.6"/>
+  <circle cx="39" cy="29" r="4.2" fill="#e5a04c" stroke="#121722" stroke-width="1.6"/>
+  <circle cx="43" cy="47" r="2.2" fill="#5b8def" opacity="0.55"/>
+</svg>
